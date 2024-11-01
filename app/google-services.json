@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1041874620658",
+    "firebase_url": "https://whatsapp-status-44088-default-rtdb.firebaseio.com",
+    "project_id": "whatsapp-status-44088",
+    "storage_bucket": "whatsapp-status-44088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041874620658:android:8adb79762d8e331476006b",
+        "android_client_info": {
+          "package_name": "com.arrowwould.statussaver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHICn2vozO-iltDazvcxPJZhaK_sD2tL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041874620658:android:a8442a9c13fc477076006b",
+        "android_client_info": {
+          "package_name": "com.pramilak.videoplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHICn2vozO-iltDazvcxPJZhaK_sD2tL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
